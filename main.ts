@@ -1,1 +1,2 @@
-eval(process.env.TSVM)
+eval(
+process.env.TS)
